@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7078f1f4.chunk.css",
+    "main.js": "/static/js/main.9f792f05.chunk.js",
+    "main.js.map": "/static/js/main.9f792f05.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.621b5bde.chunk.css": "/static/css/2.621b5bde.chunk.css",
+    "static/js/2.93aaed39.chunk.js": "/static/js/2.93aaed39.chunk.js",
+    "static/js/2.93aaed39.chunk.js.map": "/static/js/2.93aaed39.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e3926e096815475736678766ff269ef2.js": "/precache-manifest.e3926e096815475736678766ff269ef2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.621b5bde.chunk.css.map": "/static/css/2.621b5bde.chunk.css.map",
+    "static/css/main.7078f1f4.chunk.css.map": "/static/css/main.7078f1f4.chunk.css.map",
+    "static/media/Sinsegye.jpg": "/static/media/Sinsegye.2d3147ca.jpg",
+    "static/media/avengers.jpg": "/static/media/avengers.177e9e0b.jpg",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/totoro-horizontal.jpg": "/static/media/totoro-horizontal.bd276bcd.jpg"
+  }
+}
